@@ -3,7 +3,7 @@ CRUD for Mini blog with author name authentication
 
 ## Project setup
 
-1. create your env file and add 
+1. create your env file (guide -> .env.example)
 2. run db
 ```
 cd postgres
